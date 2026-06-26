@@ -1,0 +1,14 @@
+emp_id,name,department,age,salary,salary_band,age_group,tenure_years,join_year,email
+101,Alice,IT,25.0,50000.0,Mid,Young (<=25),6,2020,alice@company.com
+102,Bob,HR,30.0,60000.0,Mid,Mid (26-35),7,2019,bob@company.com
+103,Charlie,IT,35.0,61000.0,Mid,Mid (26-35),5,2021,charlie@company.com
+104,Diana,Finance,28.0,80000.0,Senior,Mid (26-35),7,2018,diana@company.com
+105,Eve,HR,30.5,45000.0,Junior,Mid (26-35),3,2022,eve@company.com
+106,Frank,IT,30.5,70000.0,Senior,Mid (26-35),4,2021,frank@company.com
+107,Grace,Finance,32.0,61000.0,Mid,Mid (26-35),6,2020,grace@company.com
+109,Henry,HR,29.0,62000.0,Mid,Mid (26-35),3,2023,invalid-email
+110,Iris,Finance,31.0,75000.0,Senior,Mid (26-35),5,2020,dfgdgfd
+112,Jake,HR,26.0,48000.0,Junior,Mid (26-35),4,2022,jake@company.com
+113,Karen,IT,33.0,66000.0,Mid,Mid (26-35),6,2019,karen@company.com
+114,Leo,Finance,34.0,61000.0,Mid,Mid (26-35),5,2021,leo@company.com
+115,Mia,HR,30.5,72000.0,Senior,Mid (26-35),5,2020,mia@company.com
